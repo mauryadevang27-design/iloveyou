@@ -1,1 +1,2 @@
-# Python dependencies removed; this static site has no Python requirements.
+Flask>=3.0,<4
+gunicorn>=22,<24

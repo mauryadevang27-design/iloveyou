@@ -1,1 +1,1 @@
-# Static site; no server process required.
+web: gunicorn app:app --bind 0.0.0.0:$PORT
