@@ -1,1 +1,1 @@
-web: gunicorn app:app
+# Static site; no server process required.
