@@ -1,2 +1,1 @@
-flask
-gunicorn
+# Python dependencies removed; this static site has no Python requirements.
